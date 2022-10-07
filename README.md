@@ -5,6 +5,8 @@
 ## TL;DR
 
 - Find an online course that you like (I like [Udemy](https://www.udemy.com/)).
+- Ensure you're using version control
+- Ensure you're writing unit tests
 - Practice. Practice. Practice.
 - Always ask _why_.
 
