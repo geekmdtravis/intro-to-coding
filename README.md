@@ -2,6 +2,12 @@
 
 [Travis Nesbit, MD](https://www.linkedin.com/in/travis-nesbit-md-953b70a4/) ([geekmdtravis](https://github.com/geekmdtravis/))
 
+## TL;DR
+
+- Find an online course that you like (I like [Udemy](https://www.udemy.com/)).
+- Practice. Practice. Practice.
+- Always ask _why_.
+
 ## Goals
 
 The focus of this introductory session is to give each participate an understanding of:
@@ -12,7 +18,6 @@ The focus of this introductory session is to give each participate an understand
 - My choice of introductory programming languages.
 - Major tools commonly used in computer programming and **why** they're used.
 - Where and how to begin learning to program **without** a complex development environment.
-- Where I would suggest learning to becoming a computer programmer.
 
 ## Do I need a computer science degree to become a high-earning software engineer?
 
@@ -119,6 +124,18 @@ A text editor is a program that supports you as you to write code. You can techn
 
 An IDE is a program that combines a text editor with other tools that are commonly used in software development. It's a very powerful tool that can help you write code more efficiently, but I personally advocate against their use in the beginning because they're (a) bloated, and (b) can negatively impact your learning as they can hide the details of what's happening under the hood.
 
+### Code Debugger
+
+The debugger is a tool that allows you to step through your code and see what's happening at each step in terms of what data is inside what variable, and how your flow control and logical statements are operating. It's a very powerful tool that can help you understand what's happening in your code when behavior isn't what you expect.
+
+### Unit Testing Framework
+
+A unit testing framework is a tool (generally written in the same language that you're using and made available as a library) that allows you to write tests that can be run against your code to verify that it's working as expected. It's a very powerful tool that can help you write code that is more reliable and less prone to errors.
+
+### Package Manager
+
+A package manager is a tool that allows you to download and install libraries that other developers have written and made available for you to use in your own code. It's a very powerful tool that can help you write code that is more reliable and less prone to errors since other people have already solved many of the problems you're trying to solve.
+
 ### Version Control
 
 Version control is a system that allows you to keep track of changes to your code. It's a very powerful tool that allows you to easily revert to previous versions of your code, collaborate with others, and keep track of changes to your code.
@@ -127,5 +144,22 @@ Version control is a system that allows you to keep track of changes to your cod
 
 A terminal emulator is a program that allows you to interact with your computer using a text based interface. It's a very powerful tool that allows you to do things like navigate your file system, run programs, and install software. In Windows it's called the _Command Prompt_ or _PowerShell_ and in macOS and other POSIX compliant operating systems it's referred to as the _Terminal_. Of note, you can install different terminal emulators in your computer than what comes with them by default.
 
-- [Visual Studio Code](https://code.visualstudio.com/) - A text editor that is used to write code. It's free, open source, and has a large community of developers who are willing to help you learn.
+### Examples of the above tools
+
+- [Visual Studio Code](https://code.visualstudio.com/) - A free text editor that is used to write code. It's free, open source, and has a large community of developers who are willing to help you learn. A _debugger_ will be built into this.
+- [JetBrains WebStorm](https://www.jetbrains.com/webstorm/) - A paid IDE that is very powerful and has a lot of features. A _debugger_ will be built into this.
+- [Anaconda](https://www.anaconda.com/products/distribution) - A free package manager that is used to install Python libraries.
+- [NPM](https://www.npmjs.com/) - A free package manager that is used to install JavaScript libraries.
+- [Git Bash](https://git-scm.com/downloads) - A UNIX-like terminal emulator that can be run on Windows as an alternative to the default Command Prompt or PowerShell. It's made available when you install _Git_.
 - [Git](https://git-scm.com/) - A version control system that is used to track changes to your code and to collaborate with other developers.
+- [GitHub](https://github.com) - A website that allows you to host your code and collaborate with other developers. It interacts seamlessly with the version control system Git.
+
+## Where and how to begin learning to program without a complex development environment
+
+- [Solo Learn](https://www.sololearn.com/compiler-playground/cOAXyhEmN1f7) - A free website that allows you to write code in your browser and run it. It's a great place to start learning to program.
+- [PlayCode.io](https://playcode.io/typescript) - A free website that allows you to write code in your browser and run it. It's a great place to start learning to program.
+- [CodePen](https://codepen.io/) - A free website that allows you to write code in your browser and run it. It's a great place to start learning to program.
+
+- [YouTube](https://www.youtube.com/) - You know what this one is. Ha, ha.
+- [Stack Overflow](https://stackoverflow.com/) - A website where you can ask questions about programming and get answers from other developers.
+- [Udemy](https://www.udemy.com/) - A website where you can take online courses to learn how to program. It's inexpensive and has a large selection of courses. **I strongly recommend this resource**.
